@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsiyaBadarunnisaSainudeen
 - 👀 I’m interested in climate variability studies!
 - 🌱 I’m currently learning climate modelling.
-- 📫 How to reach me asiya@email.arizona.edu
+- 📫 How to reach me asiya@arizona.edu
 
 <!---
 AsiyaBadarunnisaSainudeen/AsiyaBadarunnisaSainudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
